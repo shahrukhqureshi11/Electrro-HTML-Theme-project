@@ -18,7 +18,7 @@
 </head>
 <body>
     <div>
-        <h1>Dashboard Page</h1>
+        <h1>Dashboard Page1</h1>
         <h1>Welcome {{session('firstname')}}</h1>
         <h1>Welcome {{session('SRK')}}</h1>
     </div>
